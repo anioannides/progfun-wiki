@@ -28,7 +28,7 @@ There are certainly a lot of things that can be improved! If you would like to c
     def square(x: => Double) // call by name
     def myFct(bindings: Int*) =  ...  // bindings is a sequence of int, containing a varying # of arguments
 ```
-
+ 
 ## Higher order functions
 
 These are functions that take a function as a parameter or return functions.
